@@ -1,0 +1,83 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.section-light {
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.section-dark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+
+div.cool-stuff-wrapper {
+    margin-top: 1.5rem;
+}
+
+button.cool-stuff-btn {
+    background-color: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title {
+    margin: auto;
+}
+
+.modal-header .close {
+    margin-left: 0;
+}
+
+.modal-form-wrapper {
+    padding: 2rem 1rem 1rem;
+}
+
+img.img-center {
+    padding: 3rem;
+    display: block;
+    margin: auto;
+}
+
+.btn-center {
+    width: 77%;
+    display: block;
+    margin: auto;
+}
+
+img.footer-img {
+    padding: 1rem;
+    display: block;
+    margin: auto;
+}
+
+.fa-facebook-square {
+    padding-top: 1rem;
+    color: #3b5998;
+}
+
+.fa-google-plus-square {
+    padding: 1rem;
+    color: #c32f10;
+}
+
+.fa-instagram {
+    padding-top: 1rem;
+    color: #ffffff;
+}
+
+
+
+
+
+/* ################  MOBILE QUERIES  ########################## */
+
+@media (min-width: 768px){
+.my-temp-class {
+    max-width: 100%;
+}
+}
